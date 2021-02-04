@@ -28,3 +28,5 @@ I hope I can add as many items to this list as possible!
 - **Gmail** - https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox?compose=GTvVlcSHwCnhfqqhPjQWrwHmRMxSndsMsDDTtknzmJjjwgKDgklsJGDDJcMXPjgkMSsckRTZjQTMV
 - **Instagram** - https://www.instagram.com/bessitos_/
 - **Twitter** - https://twitter.com/bessitos_
+
+Enjoy life and program!! 👋😊
