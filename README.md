@@ -15,9 +15,18 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 
 ## My programming skills 💻
 
-- Python 
+**Programming Languages**
+
+- Python
+- Arduino
 - Haskell 
 - C (Currently Learning) 🌱
+
+**Semi-Programming Languages**
+- HTML
+- CSS
+
+
 
 I hope I can add as many items to this list as possible!
 
