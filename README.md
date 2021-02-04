@@ -15,8 +15,8 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 
 ## My programming skills 💻
 
-- Python 🎓
-- Haskell 🎓
+- Python 
+- Haskell 
 - C (Currently Learning) 🌱
 
 I hope I can add as many items to this list as possible!
