@@ -11,7 +11,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 ### 1st year - 1st semester
 
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/assebc/Programacao-Funcional)
-- **Laboratórios de Informática I** - Haskell - [Pacman:My First Coded by myself Game](https://github.com/assebc/Laboratorios-Informatica-I)
+- **Laboratórios de Informática I** - Haskell - [Pacman:My First Self Coded Game](https://github.com/assebc/Laboratorios-Informatica-I)
 
 ### 1st year - 2nd semester
 
