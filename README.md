@@ -17,6 +17,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 
 - **Programação Imperativa** (Imperative Programming) - C - [Exercises](https://github.com/assebc/Programacao-Imperativa)
 - **Laboratórios de Informática II** - C - In process..
+- **Sistemas de Computação** - [Exercises](https://github.com/assebc/Sistemas-Computacao)
 
 
 ## My programming skills 💻
