@@ -43,4 +43,4 @@ I hope I can add as many items to this list as possible!
 - **Instagram** - https://www.instagram.com/bessitos_/
 - **Twitter** - https://twitter.com/bessitos_
 
-Enjoy life and program!! 👋😊
+Enjoy life and code!! 👋😊
