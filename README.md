@@ -26,7 +26,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 - Arduino
 - Haskell 
 - C (Currently Learning) 🌱
-- Assembly
+- Assembly (Currently Learning) 🌱
 
 **Semi-Programming Languages**
 - HTML
