@@ -4,9 +4,9 @@ Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where 
 
 ### How to reach me 📫
 
-[![Gmail badge](https://img.shields.io/badge/-claudioafbessa-c71610?style=for-the-badge&logo=Gmail&logoColor=white)(https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox?compose=GTvVlcSHwCnhfqqhPjQWrwHmRMxSndsMsDDTtknzmJjjwgKDgklsJGDDJcMXPjgkMSsckRTZjQTMV)
-[![Instagram badge](https://img.shields.io/badge/-@bessitos_-purple?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/bessitos_/)
-[![Twitter badge](https://img.shields.io/twitter/url?label=TWITTER&style=social&url=https%3A%2F%2Ftwitter.com%2Fbessitos_)(https://twitter.com/bessitos_)
+[![Gmail badge]](https://img.shields.io/badge/-claudioafbessa-c71610?style=for-the-badge&logo=Gmail&logoColor=white)(https://mail.google.com/mail/u/1/?tab=wm&ogbl#inbox?compose=GTvVlcSHwCnhfqqhPjQWrwHmRMxSndsMsDDTtknzmJjjwgKDgklsJGDDJcMXPjgkMSsckRTZjQTMV)
+[![Instagram badge]](https://img.shields.io/badge/-@bessitos_-purple?style=for-the-badge&logo=Instagram&logoColor=white)(https://www.instagram.com/bessitos_/)
+[![Twitter badge]](https://img.shields.io/twitter/url?label=TWITTER&style=social&url=https%3A%2F%2Ftwitter.com%2Fbessitos_)(https://twitter.com/bessitos_)
 
 ## About me
 
