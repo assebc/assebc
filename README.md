@@ -26,7 +26,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 - **Laboratórios de Informática II** - C - [Exercises and Project](https://github.com/assebc/Laboratorios-Informatica-II)
 
 ### 2nd year - 1st semester
-- **Laboratórios de Informática III** - C - [Work on progress..]
+- **Laboratórios de Informática III** - C - [Work on progress..](https://github.com/assebc/Laboratorios-Informatica-III)
 
 ## My programming skills 💻
 
