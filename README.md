@@ -1,18 +1,18 @@
 &nbsp;*Hello there! I'm Bessa and I'm getting a degree in Software Engineering* 👩‍💻
 
-📫 &nbsp; # How to reach me  
+# 📫 How to reach me  
 
 <a>&nbsp;[<img align="left" alt="codeSTACKr | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]</a>
 
-&nbsp; # About me
+# About me
 
-I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. 
+<a>&nbsp;I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. </a>
 
-🎓 &nbsp;## My college projects and solved exercises 
+# 🎓 My college projects and solved exercises 
 
-🎓 &nbsp;***1st year - 1st semester***  
+🎓 &nbsp;***1st year - 1st semester*** 
 
 - **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/assebc/Programacao-Funcional)
 - **Laboratórios de Informática I** - Haskell - [Pacman:My First Self Coded Game](https://github.com/assebc/Laboratorios-Informatica-I)
@@ -46,7 +46,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 <a>&nbsp;[<img align="left" alt="codeSTACKr | trello" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | ubuntu" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/>]</a></p>
 
-&nbsp;I hope I can add as many items to this list as possible!
+<a>&nbsp;I hope I can add as many items to this list as possible!</a>
 
 </details>
 
