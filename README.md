@@ -1,12 +1,12 @@
 ***Hello there! I'm Bessa and I'm getting a degree in Software Engineering*** 👩‍💻
 
-&nbsp;** How to reach me ** 📫 
+&nbsp;**How to reach me** 📫 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
+<a>&nbsp;[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]</a>
+<a>&nbsp;[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]></a>
+<a>&nbsp;[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]</a>
 
-&nbsp;** About me ** 
+&nbsp;**About me** 
 
 I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. 
 
@@ -55,7 +55,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 <!-- YOUTUBE:END -->
 
 <a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebcr&count_private=true&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
 <a href="https://lsantos.dev">
