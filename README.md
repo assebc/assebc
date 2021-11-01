@@ -4,9 +4,9 @@ Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where 
 
 ### How to reach me 📫
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
 ## About me
 
@@ -40,17 +40,18 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 
 ## Tools 🛠️
 
-[<img align="left" alt="After Effects" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Photoshop" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />]
-[<img align="left" alt="Premiere" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" />]
-[<img align="left" alt="Slack" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-[<img align="left" alt="Trello" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" />]
-[<img align="left" alt="Ubuntu" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" />]
+[<img align="left" alt="After Effects" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"/>]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>]
+[<img align="left" alt="Photoshop" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>]
+[<img align="left" alt="Premiere" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg"/>]
+[<img align="left" alt="Slack" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]
+[<img align="left" alt="Trello" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>]
+[<img align="left" alt="Ubuntu" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/>]
 
 
-I hope I can add as many items to this list as possible!
+# I hope I can add as many items to this list as possible!
+
 
 ### Latest Youtube Videos 📺
 <!-- YOUTUBE:START -->
