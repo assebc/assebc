@@ -28,13 +28,13 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 
 ## Languages 💻
 
-[<img align="left" alt="codeSTACKr | Arduino" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">]
-[<img align="left" alt="codeSTACKr | C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">]
-[<img align="left" alt="codeSTACKr | CPP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">]
-[<img align="left" alt="codeSTACKr | Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">]
-[<img align="left" alt="codeSTACKr | HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">]
-[<img align="left" alt="codeSTACKr | CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">]
-[<img align="left" alt="codeSTACKr | PYTHON" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">]
+[<img align="left" alt="codeSTACKr | Arduino" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"/>]
+[<img align="left" alt="codeSTACKr | C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>]
+[<img align="left" alt="codeSTACKr | CPP" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/>]
+[<img align="left" alt="codeSTACKr | Haskell" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"/>]
+[<img align="left" alt="codeSTACKr | HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.svg"/>]
+[<img align="left" alt="codeSTACKr | CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.svg"/>]
+[<img align="left" alt="codeSTACKr | PYTHON" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>]
 
 ## Tools 🛠️
 
