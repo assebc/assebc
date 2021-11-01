@@ -50,6 +50,7 @@
 
 ## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
 <!-- YOUTUBE:END -->
 
 <a href="https://lsantos.dev">
