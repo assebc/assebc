@@ -1,4 +1,4 @@
-###Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
+### Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
 
 ## How to reach me 📫
 
@@ -58,7 +58,7 @@ I hope I can add as many items to this list as possible!
 ![assebc's GitHub stats](https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true)
 
 
-###Enjoy life and code!! 👋😊
+### Enjoy life and code!! 👋😊
 
 
 [twitter]: https://twitter.com/bessitos_
