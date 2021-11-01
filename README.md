@@ -1,4 +1,4 @@
-### Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
+### Hello there! I'm Bessa and I'm a student at University of Minho, getting a degree in Software Engineering 👩‍💻. 
 
 ## How to reach me 📫
 
