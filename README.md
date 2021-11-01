@@ -7,11 +7,11 @@ Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]
 
-<p>
+
 ## About me
 
 I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. 
-</p>
+
 ## My college projects and solved exercises 🎓
 
 ### 1st year - 1st semester 🎓
