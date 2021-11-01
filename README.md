@@ -50,7 +50,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 [<img align="left" alt="Ubuntu" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/>]
 
 
-# I hope I can add as many items to this list as possible!
+I hope I can add as many items to this list as possible!
 
 
 ### Latest Youtube Videos 📺
