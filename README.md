@@ -2,7 +2,7 @@
 
 # 📫 How to reach me  
 
-<a>&nbsp;[<img align="left" alt="codeSTACKr | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][[youtube]</a>
+<a>&nbsp;[<img align="left" alt="codeSTACKr | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]</a>
 
@@ -45,6 +45,7 @@
 <a>&nbsp;<img align="left" alt="codeSTACKr | terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 <a>&nbsp;<img align="left" alt="codeSTACKr | trello" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" /></a>
 <a>&nbsp;<img align="left" alt="codeSTACKr | ubuntu" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" /></a><br /></p>
+
 </details>
 
 ## 📺 Latest Youtube Videos
