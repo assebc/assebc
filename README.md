@@ -44,9 +44,9 @@
 <a>&nbsp;<img align="left" alt="codeSTACKr | slack" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" /></a>
 <a>&nbsp;<img align="left" alt="codeSTACKr | terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 <a>&nbsp;<img align="left" alt="codeSTACKr | trello" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | ubuntu" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" /></a><br /></p>
-
+<a>&nbsp;<img align="left" alt="codeSTACKr | ubuntu" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" /></a></p><br/>
 </details>
+
 
 ## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
@@ -61,7 +61,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&theme=github_dark&layout=compact" />
 </a>
 
-***Enjoy life and code!!*** 👋😊
+&nbsp;***Enjoy life and code!!*** 👋😊
 
 
 [twitter]: https://twitter.com/bessitos_
