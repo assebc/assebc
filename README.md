@@ -1,16 +1,16 @@
 &nbsp;*Hello there! I'm Bessa and I'm getting a degree in Software Engineering* 👩‍💻
 
-📫 &nbsp;*How to reach me*  
+📫 &nbsp; # How to reach me  
 
 <a>&nbsp;[<img align="left" alt="codeSTACKr | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]</a>
 
-&nbsp;*About me*
+&nbsp; # About me
 
 I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. 
 
-🎓 &nbsp;**My college projects and solved exercises**  
+🎓 &nbsp;## My college projects and solved exercises 
 
 🎓 &nbsp;***1st year - 1st semester***  
 
@@ -50,7 +50,7 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 
 </details>
 
-📺&nbsp;**Latest Youtube Videos** 
+📺&nbsp;## Latest Youtube Videos
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
