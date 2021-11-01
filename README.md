@@ -1,8 +1,6 @@
-# assebc
+###Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
 
-Hello there! 👋😊 I'm Bessa and I'm a student at University of Minho, where I'm getting a degree in Software Engineering 👩‍💻. 
-
-### How to reach me 📫
+## How to reach me 📫
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
@@ -40,14 +38,14 @@ I was born and raised in Guimarães 🇵🇹, where I currently live. However I 
 
 ## Tools 🛠️
 
-[<img align="left" alt="codeSTACKr | ae" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg">]
-[<img align="left" alt="codeSTACKr | github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">]
-[<img align="left" alt="codeSTACKr | ps" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">]
-[<img align="left" alt="codeSTACKr | pr" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg">]
-[<img align="left" alt="codeSTACKr | slack" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg">]
-[<img align="left" alt="codeSTACKr | terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">]
-[<img align="left" alt="codeSTACKr | trello" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">]
-[<img align="left" alt="codeSTACKr | ubuntu" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">]
+[<img align="left" alt="codeSTACKr | ae" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"/>]
+[<img align="left" alt="codeSTACKr | github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>]
+[<img align="left" alt="codeSTACKr | ps" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/>]
+[<img align="left" alt="codeSTACKr | pr" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg"/>]
+[<img align="left" alt="codeSTACKr | slack" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>]
+[<img align="left" alt="codeSTACKr | terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>]
+[<img align="left" alt="codeSTACKr | trello" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg"/>]
+[<img align="left" alt="codeSTACKr | ubuntu" width="26px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"/>]
 
 
 I hope I can add as many items to this list as possible!
@@ -60,7 +58,7 @@ I hope I can add as many items to this list as possible!
 ![assebc's GitHub stats](https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true)
 
 
-Enjoy life and code!! 👋😊
+###Enjoy life and code!! 👋😊
 
 
 [twitter]: https://twitter.com/bessitos_
