@@ -5,6 +5,8 @@
 <a>&nbsp;[<img align="left" alt="codeSTACKr | YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg"/>][youtube]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]</a>
 <a>&nbsp;[<img align="left" alt="codeSTACKr | Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][instagram]</a>
+<a>&nbsp;[<img align="left" alt="codeSTACKr | Linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/>][linkedin]</a>
+<a>&nbsp;[<img align="left" alt="codeSTACKr | Discord" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"/>][discord]</a>
 
 # About me
 
@@ -67,3 +69,5 @@
 [twitter]: https://twitter.com/bessitos_
 [youtube]: https://www.youtube.com/channel/UCKz1tkzbzC6SV9CYF7qRE3g
 [instagram]: https://instagram.com/bessitos_
+[linkedin]: https://www.linkedin.com/in/claudio-bessa-79b9bb225/
+[discord]: https://discord.gg/QFCvN9uyuh
