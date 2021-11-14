@@ -12,12 +12,20 @@
 
 <a>&nbsp;I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. </a>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/assebc/assebc/blob/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🛠️</b></summary>
   <br/>
 
+<a href="https://lsantos.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+
+<a href="https://lsantos.dev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&theme=github_dark&layout=compact" />
+</a>
+  
 <p align="left"><img align="left" alt="codeSTACKr | Arduino" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" /></a>
 <a>&nbsp;<img align="left" alt="codeSTACKr | C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
 <a>&nbsp;<img align="left" alt="codeSTACKr | CPP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /></a>
@@ -41,13 +49,6 @@
 - [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
 <!-- YOUTUBE:END -->
 
-<a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark" />
-</a>
-
-<a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&theme=github_dark&layout=compact" />
-</a>
 
 &nbsp;***Enjoy life and code!!*** 👋😊
 
