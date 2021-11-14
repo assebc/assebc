@@ -12,35 +12,26 @@
 
 <a>&nbsp;I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. </a>
 
-![Snake animation](https://github.com/assebc/assebc/blob/output/github-contribution-grid-snake.svg)
-
-<details>
-  <summary><b>💻&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🛠️</b></summary>
-  <br/>
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<div>
 <a href="https://lsantos.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark" />
 </a>
-
 <a href="https://lsantos.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&theme=github_dark&layout=compact" />
 </a>
-  
+</div>
+
+<details>
+  <summary><b>💻&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🛠️</b></summary>
+  <br/>  
 <p align="left"><img align="left" alt="codeSTACKr | Arduino" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | C" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | CPP" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | Haskell" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | PYTHON" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | ae" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-plain.svg"/ ></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | github" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | ps" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | pr" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | slack" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | trello" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" /></a>
-<a>&nbsp;<img align="left" alt="codeSTACKr | ubuntu" width="40px" src ="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" /></a></p><br/>
+<a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | CPP" height="30" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" /></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Haskell" height="30" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" /></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | PYTHON"height="30"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
 </details>
 
 
