@@ -10,7 +10,7 @@
 
 # About me
 
-<a>&nbsp;I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. </a>
+<a>&nbsp;I was born and raised in Guimarães 🇵🇹. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. </a>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <div>
