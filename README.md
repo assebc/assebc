@@ -12,24 +12,7 @@
 
 <a>&nbsp;I was born and raised in Guimarães 🇵🇹, where I currently live. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. </a>
 
-# 🎓 My college projects and solved exercises 
-
-🎓 &nbsp;***Software Engineer Degree*** 
-[GitHub Repository](https://github.com/assebc/uminho-lei)
-
-🎓 &nbsp;***1st year - 1st semester*** 
-
-- **Programação Funcional** (Functional Programming) - Haskell - [Exercises](https://github.com/assebc/uminho-lei/tree/main/1ano/PF%20(Functional%20Programming))
-- **Laboratórios de Informática I** - Haskell - [Pacman : My First Self Coded Game](https://github.com/assebc/uminho-lei/tree/main/1ano/LI1%20(Informatic%20Labs%20I))
-
-🎓 &nbsp;***1st year - 2nd semester*** 
-
-- **Programação Imperativa** (Imperative Programming) - C - [Exercises](https://github.com/assebc/uminho-lei/tree/main/1ano/PI%20(Imperative%20Programming))
-- **Laboratórios de Informática II** - C - [Exercises and Project](https://github.com/assebc/uminho-lei/tree/main/1ano/LI2%20(Informatic%20Labs%20II))
-
-🎓 &nbsp;***2nd year - 1st semester*** 
-
-- **Laboratórios de Informática III** - C - [Work on progress..](https://github.com/assebc/uminho-lei/tree/main/2ano/LI3%20(Informatic%20Labs%20III))
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <details>
   <summary><b>💻&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🛠️</b></summary>
