@@ -9,7 +9,7 @@
 </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/assebc/assebc/blob/output/github-contribution-grid-snake.svg)
 
 
 <a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /></a>
@@ -19,9 +19,6 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
 <a>&nbsp;<img align="right" alt="pic" height="150px" style="border-radius:50px" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png"/></a>
-
-
-# 📫 How to reach me  
 
 <a>&nbsp;[<img align="center" alt="codeSTACKr | YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]</a>
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]</a>
