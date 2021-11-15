@@ -32,7 +32,7 @@
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord]</a>
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]</a>
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]</a>
-<a>&nbsp;[]<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="![header](https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png)
+<a>&nbsp;[]<img align="right" alt=pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png)
 ">]</a>
 </div>
 ## 📺 Latest Youtube Videos
