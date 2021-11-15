@@ -1,4 +1,4 @@
-# Hello there! I'm Bessa 👩‍💻
+#🇵🇹 guimarães, software enthusiastic, volleyball addicted
 
 <div>
 <a href="https://lsantos.dev">
