@@ -1,4 +1,4 @@
-# Hello there! I'm Bessa and I'm getting a degree in Software Engineering 👩‍💻
+# Hello there! I'm Bessa 👩‍💻
 
 <div>
 <a href="https://lsantos.dev">
