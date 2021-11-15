@@ -30,12 +30,12 @@
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]</a>
 
 
-<div>
+
 ## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- ![GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
+- [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
 <!-- YOUTUBE:END -->
- </div>
+
 
 
 
