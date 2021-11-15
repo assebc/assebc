@@ -1,8 +1,4 @@
-&nbsp;*Hello there! I'm Bessa and I'm getting a degree in Software Engineering* 👩‍💻
-
-# About me
-
-<a>&nbsp;I was born and raised in Guimarães 🇵🇹. However I study in Braga. I love video games 👾, streaming 🎥 , volleyball 🏐 , among other things. </a>
+# *Hello there! I'm Bessa and I'm getting a degree in Software Engineering* 👩‍💻
 
 <div>
 <a href="https://lsantos.dev">
@@ -22,8 +18,7 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | PYTHON" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a>&nbsp;[<img align="right" alt="pic" height="150px" style="border-radius:50px" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png"/>]</a>
-
+<a>&nbsp;<img align="right" alt="pic" height="150px" style="border-radius:50px" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png"/></a>
 
 
 # 📫 How to reach me  
