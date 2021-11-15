@@ -22,6 +22,7 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | PYTHON" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" /></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a>&nbsp;[<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png"/>]</a>
 
 
 
@@ -32,13 +33,15 @@
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord]</a>
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Twitter"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]</a>
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]</a>
-<a>&nbsp;[<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png"/>]
-">]</a>
-</div>
+
+
+<div>
 ## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
 - [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
 <!-- YOUTUBE:END -->
+ </div>
+
 
 
 &nbsp;***Enjoy life and code!!*** 👋😊
