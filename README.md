@@ -30,6 +30,7 @@
 
 ## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [COMO UTILIZAR O GIT/GITHUB &lpar;BÁSICO&rpar;](https://www.youtube.com/watch?v=I7beeihk5P4)
 - [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
 <!-- YOUTUBE:END -->
 
