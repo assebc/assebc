@@ -1,4 +1,4 @@
-*🇵🇹 guimarães, software enthusiastic, volleyball addicted*
+*🇵🇹 guimarães, software enthusiastic, digital editor, volleyball addicted*
 
 <div>
 <a href="https://lsantos.dev">
