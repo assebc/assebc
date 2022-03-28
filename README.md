@@ -16,6 +16,8 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | Haskell" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Java" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | PYTHON" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/></a>
+
 <a>&nbsp;<img align="right" alt="pic" height="150px" style="border-radius:50px" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png"/></a>
 
 <a>&nbsp;[<img align="center" alt="codeSTACKr | YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]</a>
