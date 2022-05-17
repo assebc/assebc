@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=dark&hide=contribs&hide_border=true"/>
 </a>
 <a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&theme=github_dark&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&layout=compact&theme=dark&hide_border=true"/>
 </a>
 </div>
 
