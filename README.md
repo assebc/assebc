@@ -36,11 +36,9 @@
 
 ## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [⭐️FREE HWID SPOOFER DOWNLOAD 2022⭐️ | fortnite, warzone, rust, valorant | epsilon spoofer free](https://www.youtube.com/watch?v=HeL7EE7yOvQ)
-- [Adobe Premiere Pro | Download Free Crack | 2022](https://www.youtube.com/watch?v=R62WX76n_no)
-- [autocad crack 🖌 | 🔥 free download 🔥 | 2022 ✔️!](https://www.youtube.com/watch?v=vaFnSuoYWt8)
-- [FL STUDIO CRACK | FREE DOWNLOAD FL STUDIO 2022](https://www.youtube.com/watch?v=3chT-tvKHH8)
-- [Gta 5 Online Mod Menu | Kiddions Mod Menu | Free Download | 2022](https://www.youtube.com/watch?v=h5YzKNiK3Bo)
+- [GERÊS - 7 LAGOAS | TIMELAPSE](https://www.youtube.com/watch?v=yiESwswWfuA)
+- [COMO UTILIZAR O GIT/GITHUB &lpar;BÁSICO&rpar;](https://www.youtube.com/watch?v=I7beeihk5P4)
+- [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
 <!-- YOUTUBE:END -->
 
 
