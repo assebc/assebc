@@ -36,9 +36,10 @@
 
 ## 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [GERÊS - 7 LAGOAS | TIMELAPSE](https://www.youtube.com/watch?v=yiESwswWfuA)
-- [COMO UTILIZAR O GIT/GITHUB &lpar;BÁSICO&rpar;](https://www.youtube.com/watch?v=I7beeihk5P4)
-- [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=7byy9jAFwU4)
+- [SPEEDKARTING FAFE | POV](https://www.youtube.com/watch?v=8T5ByIsn7FY)
+- [GERÊS - 7 LAGOAS | TIMELAPSE](https://www.youtube.com/watch?v=wC0IwTH-5iQ)
+- [COMO UTILIZAR O GIT/GITHUB &lpar;BÁSICO&rpar;](https://www.youtube.com/watch?v=-Sf28gqMKz0)
+- [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=hgHMovENsWs)
 <!-- YOUTUBE:END -->
 
 
