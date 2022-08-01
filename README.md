@@ -1,11 +1,11 @@
 *🇵🇹 guimarães, software enthusiastic, digital editor*
 
 <div>
-<a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark&hide=contribs&hide_border=true"/>
+<a href="https://allmylinks.com/bessa">
+  <img align="center" src="https://github-activity-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark&hide=contribs&hide_border=true"/>
 </a>
-<a href="https://lsantos.dev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&layout=compact&count_private=true&theme=github_dark&hide_border=true"/>
+<a href="https://allmylinks.com/bessa">
+  <img align="center" src="https://github-activity-readme-stats.vercel.app/api/top-langs/?username=assebc&layout=compact&count_private=true&theme=github_dark&hide_border=true"/>
 </a>
 </div>
 
