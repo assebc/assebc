@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://allmylinks.com/bessa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark&hide=contribs&hide_border=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_darks&hide_border=true"/>
 </a>
 <a href="https://allmylinks.com/bessa">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&layout=compact&count_private=true&theme=github_dark&hide_border=true"/>
