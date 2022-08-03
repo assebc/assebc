@@ -5,7 +5,7 @@
   <img height=180 src="https://github-activity-readme-stats.vercel.app/api?username=assebc&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
 <a href="https://allmylinks.com/bessa">
-  <img height=180 src="https://github-activity-readme-stats.vercel.app/api/top-langs/?username=assebc&count_private=true&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=assebc&count_private=true&layout=compact&theme=github_dark&hide_border=true"/>
 </a>
 </div>
 
