@@ -48,7 +48,7 @@
 
 
 [twitter]: https://twitter.com/bessitos_
-[youtube]: https://www.youtube.com/channel/UCKz1tkzbzC6SV9CYF7qRE3g
+[youtube]: https://www.youtube.com/channel/UCYXW07u06W_eyY_GMJcQDaw
 [instagram]: https://instagram.com/bessitos_
 [linkedin]: https://www.linkedin.com/in/claudio-bessa-79b9bb225/
 [discord]: https://discord.gg/QFCvN9uyuh
