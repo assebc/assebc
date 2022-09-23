@@ -20,7 +20,7 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="40px"  width="60px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="40px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="40px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | JS" height="40px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Javascript" height="30px"  width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a>
 
 
 
