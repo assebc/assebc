@@ -2,10 +2,10 @@
 
 <div align="center">
 <a href="https://allmylinks.com/bessa">
-  <img style="width: 50%;" src="https://github-activity-readme-stats.vercel.app/api?username=assebc&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width=180 src="https://github-activity-readme-stats.vercel.app/api?username=assebc&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
 <a href="https://allmylinks.com/bessa">
-  <img style="width: 50%;" src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=assebc&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile"/>
+  <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=assebc&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile"/>
 </a>
 </div>
 
