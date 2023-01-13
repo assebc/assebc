@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://allmylinks.com/bessa">
-  <img width=180px src="https://github-activity-readme-stats.vercel.app/api?username=assebc&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img width=50% src="https://github-activity-readme-stats.vercel.app/api?username=assebc&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
 </a>
 <a href="https://allmylinks.com/bessa">
   <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=assebc&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile"/>
