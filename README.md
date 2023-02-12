@@ -20,7 +20,7 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | Haskell" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Qt" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | .NET" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | .NET" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/></a>
 
 
 ## Frontend Tools
