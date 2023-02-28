@@ -52,8 +52,6 @@
 
 &nbsp;***Enjoy life and code!!*** 👋😊
 
-&nbsp;![](https://komarev.com/ghpvc/?username=assebc&color=grey)
-
 
 [youtube]: https://www.youtube.com/channel/UCYXW07u06W_eyY_GMJcQDaw
 [instagram]: https://instagram.com/bessitos_
