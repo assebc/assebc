@@ -36,20 +36,8 @@
 
 <a>&nbsp;<img align="right" alt="pic" height="150px" style="border-radius:50px" src="https://user-images.githubusercontent.com/73396142/141704283-e4a93ab9-441d-464b-bc65-530f5a341dc2.png"/></a>
 
-<a>&nbsp;[<img align="center" alt="codeSTACKr | YouTube"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]</a>
-<a>&nbsp;[<img align="center" alt="codeSTACKr | Instagram"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>][instagram]</a>
-<a>&nbsp;[<img align="center" alt="codeSTACKr | Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>][discord]</a>
 <a>&nbsp;[<img align="center" alt="codeSTACKr | Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]</a>
 
-
-
-## 📺 Latest Youtube Videos
-<!-- YOUTUBE:START -->
-- [SPEEDKARTING FAFE | POV](https://www.youtube.com/watch?v=8T5ByIsn7FY)
-- [GERÊS - 7 LAGOAS | TIMELAPSE](https://www.youtube.com/watch?v=wC0IwTH-5iQ)
-- [COMO UTILIZAR O GIT/GITHUB &lpar;BÁSICO&rpar;](https://www.youtube.com/watch?v=-Sf28gqMKz0)
-- [GERÊS - PORTELA DO HOMEM | TIMELAPSE](https://www.youtube.com/watch?v=hgHMovENsWs)
-<!-- YOUTUBE:END -->
 
 
 
@@ -57,7 +45,4 @@
 &nbsp;***Enjoy life and code!!*** 👋😊
 
 
-[youtube]: https://www.youtube.com/channel/UCYXW07u06W_eyY_GMJcQDaw
-[instagram]: https://instagram.com/bessitos_
 [linkedin]: https://www.linkedin.com/in/claudio-bessa/
-[discord]: https://discord.gg/QFCvN9uyuh
