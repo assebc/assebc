@@ -48,7 +48,7 @@
 - 🎓 [SMatch](https://github.com/assebc/SMatch) Find your study buddy mobile app
 - ✈️ [Travel Around](https://github.com/assebc/flights-booking-portal) Airline website
 - 🛍️ [OnlyFeiras](https://github.com/assebc/OnlyFeiras) Portuguese version of a virtual flea market
-- 👥 [Login](https://github.com/assebc/login-template) Login Framework to reuse across projects
+- 👥 [Login](https://github.com/assebc/login-template) Cool framework that I built but never reused it
 - 🔓 [Vigenere Cypher](https://vigenere-cypher.vercel.app/) Encrypt your password like never before
 - 🏅 [Certificate](https://github.com/assebc/certificate-automation) Automating signatures on diplomas
 
