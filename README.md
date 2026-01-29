@@ -45,6 +45,7 @@
 - 👨‍⚕️ [MediMeet](https://play.google.com/store/apps/details?id=com.anonymous.medimeet) AI Agent that helps with medical care and pill schedulling
 - 🏢 [Rank Companies](https://github.com/assebc/pep-it-companies-app) Evalute and give reviews about working at a company
 - 🎓 [SMatch](https://github.com/assebc/SMatch) Find your study buddy mobile app
+- ✈️ [Travel Around](https://github.com/assebc/flights-booking-portal) Airline website
 - 🛍️ [OnlyFeiras](https://github.com/assebc/OnlyFeiras) Portuguese version of a virtual flea market
 - 👥 [Login](https://github.com/assebc/login-template) Login Framework to reuse across projects
 - 🔓 [Vigenere Cypher](https://vigenere-cypher.vercel.app/) Encrypt your password like never before
