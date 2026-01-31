@@ -14,6 +14,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/assebc/assebc/output/github-contribution-grid-snake.svg">
 </picture>
 
+![My GitHub Game](game.gif)
+
 ## Backend Tools
 <a>&nbsp;<img align="center" alt="codeSTACKr | C#" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Cpp" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/></a>
