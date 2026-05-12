@@ -39,7 +39,7 @@
 
 ## Current Projects
 - 📓 [Project Management Tool](https://projects-management-frontend.onrender.com/) Hub to note down all your projects and ideas and share it across users
-- 🚀 [OurBrand](https://www.our-brand.com/) Make it easy to be present in this AI digital era
+- 🚀 [Brandeet](https://www.brandeet.com/) Make it easy to be present in this AI digital era
 - 👨‍⚕️ [MediMeet](https://play.google.com/store/apps/details?id=com.anonymous.medimeet) AI Agent that helps with medical care and pill schedulling
 - 📈 [Market Simulator](https://github.com/assebc/market-simulator-env) Simulating stock market to train AI/ML models to predict market movement
 - 🏢 [Rank Companies](https://github.com/assebc/pep-it-companies-app) Evalute and give reviews about working at a company
