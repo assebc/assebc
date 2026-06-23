@@ -38,6 +38,7 @@
 
 
 ## Current Projects
+- 🅰️ [Angular Signal Http Client](https://github.com/assebc/ng-signal-http) NPM Package to replace observable angular http client
 - 📓 [Project Management Tool](https://projects-management-frontend.onrender.com/) Hub to note down all your projects and ideas and share it across users
 - 🚀 [Brandeet](https://www.brandeet.com/) Make it easy to be present in this AI digital era
 - 👨‍⚕️ [MediMeet](https://play.google.com/store/apps/details?id=com.anonymous.medimeet) AI Agent that helps with medical care and pill schedulling
