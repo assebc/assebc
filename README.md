@@ -11,33 +11,7 @@
 
 ![My GitHub Game](game.gif)
 
-## Backend Tools
-<a>&nbsp;<img align="center" alt="codeSTACKr | C#" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Cpp" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Java" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Haskell" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | .NET" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | NodeJs" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | NestJs" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Qt" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"/></a>
-
-
-## Frontend Tools
-<a>&nbsp;<img align="center" alt="codeSTACKr | Angular" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | React" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | NextJs" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | TypeScript" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Javascript" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
-
-<a>&nbsp;[<img align="center" alt="codeSTACKr | Linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]</a>
-
-
-## Current Projects
+## Projects
 - 🅰️ [Angular Signal Http Client](https://github.com/assebc/ng-signal-http) NPM Package to replace observable angular http client
 - 📓 [Project Management Tool](https://projects-management-frontend.onrender.com/) Hub to note down all your projects and ideas and share it across users
 - 🚀 [Brandeet](https://www.brandeet.com/) Make it easy to be present in this AI digital era
