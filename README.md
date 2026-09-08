@@ -14,6 +14,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-bessa/)
 
 ## Projects
+- 🏗️🤫 Building something huge
+- 👷🤫 Working on a finance personal brand project
 - 🅰️ [Angular Signal Http Client](https://github.com/assebc/ng-signal-http) NPM Package to replace observable angular http client
 - 📓 [Project Management Tool](https://projects-management-frontend.onrender.com/) Hub to note down all your projects and ideas and share it across users
 - 🚀 [Brandeet](https://www.brandeet.com/) Make it easy to be present in this AI digital era
