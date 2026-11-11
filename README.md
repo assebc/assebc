@@ -1,4 +1,4 @@
-*🇵🇹 guimarães, software enthusiastic, digital editor*
+w*🇵🇹 guimarães, software enthusiastic, digital editor*
 
 <div align="center" >
 <a href="https://www.cbessa.pt/">
@@ -15,7 +15,7 @@
 
 ## Projects
 - 🏗️🤫 Building something huge
-- 👷🤫 Working on a finance personal brand project
+- 💰 [FinanceOS](https://finance-os-nine-gamma.vercel.app/) Learn your way to financial freedom
 - 🅰️ [Angular Signal Http Client](https://github.com/assebc/ng-signal-http) NPM Package to replace observable angular http client
 - 📓 [Project Management Tool](https://projects-management-frontend.onrender.com/) Hub to note down all your projects and ideas and share it across users
 - 🚀 [Brandeet](https://www.brandeet.com/) Make it easy to be present in this AI digital era
