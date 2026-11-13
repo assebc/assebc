@@ -1,4 +1,4 @@
-w*🇵🇹 guimarães, software enthusiastic, digital editor*
+*🇵🇹 guimarães, software enthusiastic, digital editor*
 
 <div align="center" >
 <a href="https://www.cbessa.pt/">
